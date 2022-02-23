@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Myrobofriends/static/css/main.c1f45e09.css",
+    "main.js": "/Myrobofriends/static/js/main.9bd2a26f.js",
+    "static/media/SEGA.woff": "/Myrobofriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/Myrobofriends/index.html",
+    "main.c1f45e09.css.map": "/Myrobofriends/static/css/main.c1f45e09.css.map",
+    "main.9bd2a26f.js.map": "/Myrobofriends/static/js/main.9bd2a26f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1f45e09.css",
+    "static/js/main.9bd2a26f.js"
+  ]
+}
